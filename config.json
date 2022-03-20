@@ -1,7 +1,7 @@
 {
 	"ip":"ult14.falix.gg",
 	"port": 29005,
-	"name": "afkbot2",
+	"name": "afkbot3",
 	"auto-night-skip":"true",
 	"login-enabled":"false",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
